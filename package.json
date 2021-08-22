@@ -3,7 +3,7 @@
   "private": false,
   "description": "A starter template for scientists",
   "version": "0.1.0",
-  "author": "James Knight <knightjdr@gmail.com>",
+  "author": "Trent Larson <trent@trentlarson.com>",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
@@ -56,18 +56,18 @@
   "scripts": {
     "build": "npm run clean && gatsby build --prefix-paths",
     "deploy": "gh-pages -d public",
-    "develop": "gatsby develop",
+    "dev": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
-    "start": "npm run develop",
+    "start": "yarn run dev",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "jest --watch"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/knightjdr/gatsby-starter-scientist"
+    "url": "https://github.com/trentlarson/a-life-of-gifts"
   },
   "bugs": {
-    "url": "https://github.com/knightjdr/gatsby-starter-scientist/issues"
+    "url": "https://github.com/trentlarson/a-life-of-gifts/issues"
   }
 }
