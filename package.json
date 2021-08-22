@@ -1,7 +1,7 @@
 {
   "name": "gatsby-starter-default",
   "private": false,
-  "description": "A starter template for scientists",
+  "description": "Website for A Life Of Gifts .org",
   "version": "0.1.0",
   "author": "Trent Larson <trent@trentlarson.com>",
   "dependencies": {
@@ -54,7 +54,7 @@
   ],
   "license": "MIT",
   "scripts": {
-    "build": "npm run clean && gatsby build --prefix-paths",
+    "build": "yarn clean && gatsby build --prefix-paths",
     "deploy": "gh-pages -d public",
     "dev": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",

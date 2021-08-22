@@ -17,7 +17,7 @@ My Website for My Great Cause
 
 This is a website template built with Gatsby for a typical scientist or laboratory profile/portfolio site.
 
-[Demo](https://knightjdr.github.io/gatsby-start-scientist)
+[Demo](https://jamstackthemes.dev/demo/theme/gatsby-starter-scientist/) (no longer [here](https://knightjdr.github.io/gatsby-start-scientist))
 
 ## Setup
 
