@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: '/gatsby-starter-scientist',
   siteMetadata: {
     author: 'Trent Larson',
     description: 'Encouragement for Enlightenment',
