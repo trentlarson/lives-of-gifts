@@ -1,11 +1,18 @@
 
-My Website for My Great Cause
+# My Website for My Great Cause
 
-`yarn install`
+- `yarn install`
+- `yarn dev`
 
-`yarn dev`
+For the production website, `yarn run build` and then run an HTTP server with the contents of the "public" folder.
 
-`yarn run build`
+## Credits
+
+* ["A surprise gift"](https://search.creativecommons.org/photos/a0f60af0-3aef-4be1-87c4-11ba94c905f2) by [Kalexanderson](https://www.flickr.com/photos/45940879@N04) is licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
+* ["Group discussion at NSO event"](https://search.creativecommons.org/photos/76ddbe90-c1a6-4814-b0db-73fef9036cac) by [pennstatenews](https://www.flickr.com/photos/53130103@N05) is licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
+* ["Netting Up: Migrant Workers in Hong Kong"](https://search.creativecommons.org/photos/46f8f68c-2ee1-480f-a660-e5029c738429) by [WongKC2012](https://www.flickr.com/photos/77290926@N07) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+* ["Sharing"](https://search.creativecommons.org/photos/a6565501-1fd7-417f-a9e1-6f7dc4321b9f) by [Ben Grey](https://www.flickr.com/photos/28196992@N07) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+
 
 ---
 
