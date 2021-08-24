@@ -6,10 +6,19 @@
 
 For the production website, `yarn run build` and then run an HTTP server with the contents of the "public" folder.
 
+### Elements
+
+- Add Links on the main page by adding to the gatsby-config.js `primaryLinks`.
+- Add Publications page & link by adding to the gatsby-config.js `publications`.
+- Add People page & link by adding .md files in the src/markdown/people directory.
+
+### Credits
+
+All pictures include people we know personally, usually from one of our events.
 
 ---
 
-... and now here is the original README.
+... and now for the original README:
 
 ---
 
