@@ -1,23 +1,17 @@
 module.exports = {
   siteMetadata: {
     author: 'Trent Larson',
-    description: 'Encouragement for Enlightenment',
+    description: '',
     siteUrl: 'https://ALifeOfGifts.org',
     title: 'A Life Of Gifts',
     // List of link buttons to include on the landing image. Delete this field
     // and/or all entires if you do not want these links.
     // options: 'contact', 'opportunities', 'people', 'publications', 'research'
     primaryLinks: [
-      'research',
-      'opportunities',
     ],
     // List of PubMed IDs to include on the publication page. Delete this field
     // and/or all entires if you do not want the publication page.
     publications: [
-      31217594,
-      30554943,
-      29395067,
-      24255178,
     ],
     // An array of links to display in the page footer. Include as many as you like
     // (not just the ones here). If either the link or text is missing,
