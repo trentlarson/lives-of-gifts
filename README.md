@@ -1,10 +1,15 @@
 
 # My Website for My Great Cause
 
+To develop:
+
 - `yarn install`
 - `yarn dev`
 
-For the production website, `yarn run build` and then run an HTTP server with the contents of the "public" folder.
+To deploy:
+
+- `yarn run build` (and test with `http-server`)
+- `rsync --dry-run -azvu public ...:www/alifeofgifts` (and then without `--dry-run` for reals)
 
 ### Elements
 
