@@ -1,7 +1,7 @@
 
 Capabilities grow over time.
 
-### Have time?
+## Have time?
 
 - Consider who could use a text or a phone call right now.
 
@@ -9,7 +9,7 @@ Capabilities grow over time.
 
 - We could use help advertising, and also soliciting sponsorships.
 
-### Have expertise?
+## Have expertise?
 
 - Do an online search for that hobby, even in your area... you may be surprised. If not, consider creating some posts or videos about it, and you'll attract others.
 
@@ -17,10 +17,18 @@ Capabilities grow over time.
 
 - Come share at one of our events, or let us show you how to start your own.
 
-### Have money?
+### ... in programming?
+
+- If you are interested in building gifting platforms in a self-sovereign way, we have a lot to discuss.
+
+### ... in economics?
+
+- Help us research & publish about widespread, debt-free living.
+
+## Have money?
 
 - I have a feeling you have no shortage of opportunities, but the ideas above might connect you with true inspiration.
 
 - Challenge grants are available in every domain you want to grow, and that brings even more participation.
 
-- Let's talk about impact via experiences.
+- For real impact via experiences, let's talk.
