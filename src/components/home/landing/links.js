@@ -8,6 +8,7 @@ const routes = {
   opportunities: '/#opportunities',
   people: '/people',
   publications: '/publications',
+  reasons: '/reasons',
   research: '/#research',
 };
 

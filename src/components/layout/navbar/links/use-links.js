@@ -13,9 +13,18 @@ const useLinks = () => {
             }
           }
         }
-      publications(list: {elemMatch: {title: {regex: "/.*/"}}}) {
+        publications(list: {elemMatch: {title: {regex: "/.*/"}}}) {
           list{
             title
+          }
+        }
+        reasons: allMarkdownRemark(filter: { fileAbsolutePath: { regex: "/reasons/" } }) {
+          edges {
+            node {
+              frontmatter {
+                title
+              }
+            }
           }
         }
       }
@@ -29,6 +38,9 @@ const useLinks = () => {
   }
   if (query.publications) {
     links.push('publications');
+  }
+  if (query.reasons) {
+    links.push('reasons');
   }
 
   return links;

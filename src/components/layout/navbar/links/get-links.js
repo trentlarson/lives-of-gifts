@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faBook, faUsers } from '@fortawesome/free-solid-svg-icons';
+import { faBook, faQuestionCircle, faUsers } from '@fortawesome/free-solid-svg-icons';
 
 import Link from '../../../link/link';
 
@@ -16,6 +16,12 @@ const getLinks = (links) => {
       <Link key="publications" to="/publications">
         <FontAwesomeIcon icon={faBook} />
         Publications
+      </Link>
+    ),
+    reasons: (
+      <Link key="reasons" to="/reasons">
+        <FontAwesomeIcon icon={faQuestionCircle} />
+        Reasons
       </Link>
     ),
   };
