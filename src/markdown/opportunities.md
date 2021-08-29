@@ -19,7 +19,7 @@ Capabilities grow over time.
 
 ### ... in programming?
 
-- If you are interested in building gifting platforms in a self-sovereign way, we have a lot to discuss.
+- If you are interested in building gifting platforms in a self-sovereign way, we have a lot to discuss because we have some MVPs and big plans.
 
 ### ... in economics?
 
