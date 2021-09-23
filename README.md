@@ -8,8 +8,10 @@ To develop:
 
 To deploy:
 
-- `yarn run build` (and test with `http-server`)
-- `rsync --dry-run -azvu public/ ...:www/alifeofgifts` (and then without `--dry-run` for reals)
+- `yarn run build`
+  (and test with `http-server`)
+- `rsync --dry-run -azvu public/ ...@...:www/alifeofgifts`
+  (and then without `--dry-run` for reals)
 
 ### Elements
 
