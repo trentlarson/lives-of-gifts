@@ -3,12 +3,11 @@ image: ../images/love-thy-neighbor-poster.png
 title: About This Focus
 ---
 
-It's simple: after basic needs, we put our time and energy and money into extra
-areas. Let's grow those investments by giving it away, freely. First of all,
-life's grandest rewards come when we give without conditions and without any
-expectation of return. But furthermore, all today's scarcity mindsets can be
-replaced with systems that encourage even more giving, and we can starve out
-extractive institutions.
+The plan is simple: after our basic needs, let's invest our extra time and
+energy and money by giving them away, freely. Life's grandest rewards come when
+we give without conditions and without any expectation of return. But
+furthermore: all today's scarcity mindsets can be replaced with systems that
+encourage even more giving, and we can starve out extractive institutions.
 
 How? We start now, with whatever we can. Each person gives what they want to
 whomever they want. We do not suggest this to anyone for any reason other than
