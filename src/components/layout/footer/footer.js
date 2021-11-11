@@ -15,13 +15,11 @@ const Footer = ({
       && <Links links={links} />
     }
     <small>
-      ©
-      {' '}
-      {author}
-      ,
-      {' '}
+      <a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/"><img alt="Creative Commons License" src="http://i.creativecommons.org/p/zero/1.0/88x31.png" /></a>
+      <br />
+      <a rel="certification" href="https://creativecommons.org/share-your-work/public-domain/freeworks/"><img style={{width:40}} src="https://creativecommons.org/wp-content/uploads/2013/09/seal.png" /></a>
+      <br />
       {new Date().getFullYear()}
-      .
     </small>
   </footer>
 );

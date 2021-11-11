@@ -27,8 +27,8 @@ Capabilities grow over time.
 
 ## Have money?
 
-- I have a feeling you have no shortage of opportunities, but the ideas above might connect you with true inspiration.
+- I have a feeling you have no shortage of opportunities, but the ideas above might give some inspiration.
 
 - Challenge grants are available in every domain you want to grow, and that brings even more participation.
 
-- For real impact via experiences, let's talk.
+- For more help on real impact via experiences, feel free to contact us.

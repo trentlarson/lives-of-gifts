@@ -18,8 +18,8 @@ module.exports = {
     // it will not be shown. Delete this field and/or all entires to disable
     // footer links.
     footerLinks: [
-      { text: 'GitHub', link: 'https://github.com/trentlarson' },
-      { text: 'ResearchGate', link: 'https://www.researchgate.net/profile/Trent-Larson-3' },
+      { text: 'GitHub', link: 'https://github.com/trentlarson/lives-of-gifts' },
+      //{ text: 'ResearchGate', link: 'https://www.researchgate.net/profile/Trent-Larson-3' },
       { text: 'LinkedIn', link: 'https://www.linkedin.com/in/trentlarson' },
     ],
   },

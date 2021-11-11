@@ -1,5 +1,5 @@
 
-# My Website for My Great Cause
+# Website for A Fulfilling, Society-Building Cause
 
 To develop:
 
@@ -9,8 +9,8 @@ To develop:
 To deploy:
 
 - `yarn run build`
-  (and test with `http-server`)
-- `rsync --dry-run -azvu public/ ...@...:www/alifeofgifts`
+- test: in the 'public' directory with `http-server`
+- deploy: `rsync --dry-run -azvu public/ ...@...:www/alifeofgifts`
   (and then without `--dry-run` for reals)
 
 ### Elements
@@ -21,7 +21,12 @@ To deploy:
 
 ### Credits
 
-All pictures include people we know personally, usually from one of our events.
+All pictures include people we know personally.
+* love-thy-neighbor-poster.png is from a protest against race division on April 25, 2021.
+* make-smiles-contagious.png is from a cleanup and mask trashing on March 21, 2021.
+* group-chat-square.png is from a speaking and networking event on April 21, 2021.
+* lifting-walls-square.png is from an international volunteer home building on January 2, 2020
+
 
 ---
 
@@ -196,7 +201,3 @@ If you run into issues with images not displaying correctly in the development s
 
 * Vector cartoons are by [Lukasz Adam](https://lukaszadam.com/)
 * Icons are from the free repository at [FontAwesome](https://fontawesome.com/)
-* Hero image is courtesy of [Ramón Salinero on Unsplash](https://unsplash.com/photos/vEE00Hx5d0Q).
-* Wooden robot image is courtesy of [Kaboompics.com from Pexels](https://www.pexels.com/photo/wooden-robot-6069/)
-* Hourglass image is courtesy of [Aron Visuals on Unsplash](https://unsplash.com/photos/BXOXnQ26B7o)
-* Robot army image is courtesy of [Mina FC on Unsplash](https://unsplash.com/photos/3QKsG0fDrC8)
