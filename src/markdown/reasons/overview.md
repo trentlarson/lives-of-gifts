@@ -2,17 +2,25 @@
 order: 1
 ---
 
-Because it's rewarding!
+Because it's fulfilling!
 
-* Enough said.
+* Need we say more?
 
-Because it will actually change world economics.
+Because it will change the economics of the world around you.
 
 * This isn't a platitude. We are surrounded by companies and individuals who
-  strive to build economically viable businesses, so we often forget that there
-  are other goals and other ways to attain good lives. Many of us are able to
-  apply our means toward endeavors beyond just sustaining lives, and if we
-  dedicate more of that to gifts for our future then the next generation will
-  have even more time and space to give to their progeny, and so on. Pioneers
-  and artists invested such that their gifts last long beyond their lifespan,
-  and there is no reason every one of us cannot do the same.
+  strive to build monetarily sustainable businesses, so we often forget that
+  there are other measurable goals and other organizational principles. Many of
+  us are able to apply our means toward endeavors beyond just sustaining lives,
+  and if we dedicate more of that to gifts for our future then the next
+  generation will have even more time and space to give to their progeny, and so
+  on. Pioneers and artists invested such that their gifts last long beyond their
+  lifespan, and there is no reason every one of us cannot do the same.
+
+* Grasp the full power of that proposition: we can evolve to a point where
+  everything we need is freely given, and almost everyone can find ways to
+  fulfill their life's desires based on that organizing principle (the only
+  exeptions to that rule being people who want authority over other people or
+  who want absolute, individual command over massive physical resources).
+
+* Let's evolve.

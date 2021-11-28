@@ -1,6 +1,6 @@
 ---
 title: Topics to Come
-order: 2
+order: 3
 ---
 
 * What Meaneth a "Gifting" Economy?
