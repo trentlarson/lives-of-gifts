@@ -19,8 +19,8 @@ Because it will change the economics of the world around you.
 
 * Grasp the full power of that proposition: we can evolve to a point where
   everything we need is freely given, and almost everyone can find ways to
-  fulfill their life's desires based on that organizing principle (the only
-  exeptions to that rule being people who want authority over other people or
-  who want absolute, individual command over massive physical resources).
+  fulfill their life's desires based on these principles (the only exeptions to
+  that rule being people whose life's desires are authority over other people or
+  absolute unreasonable command over resources).
 
 * Let's evolve.
