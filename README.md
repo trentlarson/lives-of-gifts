@@ -10,7 +10,7 @@ To deploy:
 
 - `yarn run build`
 - test: in the 'public' directory with `http-server`
-- deploy: `rsync --dry-run -azvu public/ ...@...:www/alifeofgifts`
+- deploy: `rsync -azvu public/ ...@...:www/livesofgifts/`
   (and then without `--dry-run` for reals)
 
 ### Elements

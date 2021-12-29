@@ -15,10 +15,17 @@ really want and spend most of our time on life's greatest rewards.
 ### The plan is straightforward: ###
 
 Minimize and satisfy our basic needs, then invest our extra time and energy and
-money by giving them away, freely. Life's grandest rewards come when we give
-without conditions and without any expectation of return. But furthermore: with
-a change in focus, all today's scarcity mindsets can be replaced with systems
-that encourage even more giving, and we can starve out extractive institutions.
+money by giving them away, freely, until that dominates money. Life's grandest
+rewards come when we give without conditions and without any expectation of
+return. But furthermore: with a change in focus, all today's scarcity mindsets
+can be replaced with systems that encourage even more giving, and we can starve
+out extractive institutions.
+
+Although this seems simplistic or something we informally strive for already,
+the majority of the world's attention is on money and giving is treated as an
+extra. Money is treated a basic requirement, and most work is in trade for
+money. Let's flip it to where we not only prioritize gifts but show how we can
+run our lives on a "gifting economy".
 
 ### How? ###
 
@@ -27,6 +34,8 @@ they want. We do not suggest this to anyone for any reason other than for their
 own benefit. We start with small gifts, whatever is easily afforded, and we
 expand them throughout our lives. We don't measure them, except maybe for our
 own sense of accomplishment.
+
+In the meantime, we'll work out how to live whole lives based on gifts.
 
 ### Why? ###
 
@@ -42,6 +51,8 @@ there is no more violence. We attain that future along this path. It is an
 essential part of any religious or political or economic approach that leads to
 a fulfilling life and enlightened society.
 
+So...
+
 What are the gifts you're offering?
 
-Let's celebrate them!
+Let's celebrate & expand them!
