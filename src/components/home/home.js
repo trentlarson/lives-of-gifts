@@ -4,6 +4,7 @@ import About from './about/about-container';
 import Contact from './contact/contact-container';
 import Landing from './landing/landing-container';
 import Opportunities from './opportunities/opportunities-container';
+import Related from './related';
 import Research from './research/research-container';
 import { GutterLeft, GutterRight } from './gutter/gutter';
 
@@ -18,6 +19,7 @@ const Home = () => (
         <About />
         <Research />
         <Opportunities />
+        <Related />
         <Contact />
       </div>
       <GutterRight />

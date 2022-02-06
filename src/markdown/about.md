@@ -5,12 +5,13 @@ title: About This Focus
 
 ### The goal is audacious: ###
 
-Let's make this whole world one of cooperation and loving-kindness. We want this
-for everyone, not just for our ourselves or our families or our immediate
-communities. We can bring a real change of heart and focus for the majority of
-the world: whereas most currently live by carefully measuring and guarding
-themselves in most interactions, let's live by granting each other the lives we
-really want and spend most of our time on life's greatest rewards.
+Envision a world of cooperation and loving-kindness... a place where we are
+able to achieve our highest potential... and then: let's get there by spending our
+extra time by giving to that, freely.
+
+Whereas most people interact by carefully guarding their time and money with
+measurements, let's give without specific guarantees to people in that future
+world -- ourselves included.
 
 ### The plan is straightforward: ###
 
@@ -21,11 +22,16 @@ return. But furthermore: with a change in focus, all today's scarcity mindsets
 can be replaced with systems that encourage even more giving, and we can starve
 out extractive institutions.
 
+Commitments will always be important. Some measurements (eg. money) will be
+important in some contexts. But the most important work we can do is not
+measured, so let's minimize our accounting systems and grow a culture that
+donates our work and our lives toward whatever satisfies our souls the most.
+
 Although this seems simplistic or something we informally strive for already,
 the majority of the world's attention is on money and giving is treated as an
 extra. Money is treated a basic requirement, and most work is in trade for
-money. Let's flip it to where we not only prioritize gifts but show how we can
-run our lives on a "gifting economy".
+money. Let's flip it to where we prioritize gifts... and go further: show how we
+can run our lives on a "gifting economy".
 
 ### How? ###
 
