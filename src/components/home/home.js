@@ -1,9 +1,12 @@
 import React from 'react';
 
+import { faUserFriends } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
 import About from './about/about-container';
-import Contact from './contact/contact-container';
+import Contact from './contact';
 import Landing from './landing/landing-container';
-import Opportunities from './opportunities/opportunities-container';
+import Opportunities from './opportunities';
 import Related from './related';
 import Research from './research/research-container';
 import { GutterLeft, GutterRight } from './gutter/gutter';

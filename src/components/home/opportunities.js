@@ -1,17 +1,17 @@
 // These three are similar: contact.js, opportunities.js, related.js
 
-import { faGlobe } from '@fortawesome/free-solid-svg-icons';
+import { faUserFriends } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { useStaticQuery, graphql } from 'gatsby';
 import React from 'react';
 
 import './color-space.css';
 
-const RelatedContainer = () => {
+const OpportunitiesContainer = () => {
   const query = useStaticQuery(
     graphql`
     query {
-      markdown: markdownRemark(fileAbsolutePath: { regex: "/related.md/" }) {
+      markdown: markdownRemark(fileAbsolutePath: { regex: "/opportunities.md/" }) {
         html
       }
     }
@@ -25,8 +25,8 @@ const RelatedContainer = () => {
       : (
         <section className="colored-spaced" id="related">
           <h2>
-            <FontAwesomeIcon icon={faGlobe} />
-            Related
+            <FontAwesomeIcon icon={faUserFriends} />
+            Opportunities
           </h2>
           <div dangerouslySetInnerHTML={{ __html: query.markdown.html }} />
         </section>
@@ -34,4 +34,4 @@ const RelatedContainer = () => {
   );
 };
 
-export default RelatedContainer;
+export default OpportunitiesContainer;
