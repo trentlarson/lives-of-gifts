@@ -1,6 +1,6 @@
 // These three are similar: contact.js, opportunities.js, related.js
 
-import { faStarShooting } from '@fortawesome/free-solid-svg-icons';
+import { faStar } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { useStaticQuery, graphql } from 'gatsby';
 import React from 'react';
@@ -25,7 +25,7 @@ const WishcraftingContainer = () => {
       : (
         <section className="colored-spaced" id="wishcrafting">
           <h2>
-            <FontAwesomeIcon icon={faStarShooting} />
+            <FontAwesomeIcon icon={faStar} />
             Wishcrafting
           </h2>
           <div dangerouslySetInnerHTML={{ __html: query.markdown.html }} />
