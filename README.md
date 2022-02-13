@@ -9,7 +9,7 @@ To develop:
 To deploy:
 
 - `yarn run build`
-- test: in the 'public' directory with `http-server`
+- test: run an HTTP server in the 'public' directory
 - deploy: `rsync -azvu public/ ...@...:www/livesofgifts/`
 
 ### Elements
@@ -21,10 +21,12 @@ To deploy:
 ### Credits
 
 All pictures include people we know personally.
+* group-chat-square.png is from a speaking and networking event on April 21, 2021.
+* hand-up.png is from a group trust actvity on August 3, 2010.
+* lifting-walls-square.png is from an international volunteer home building on January 2, 2020
 * love-thy-neighbor-poster.png is from a protest against race division on April 25, 2021.
 * make-smiles-contagious.png is from a cleanup and mask trashing on March 21, 2021.
-* group-chat-square.png is from a speaking and networking event on April 21, 2021.
-* lifting-walls-square.png is from an international volunteer home building on January 2, 2020
+* trophy-presentation.png is from a trophy presentation on April 20, 2013.
 
 
 ---
