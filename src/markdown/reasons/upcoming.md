@@ -1,5 +1,6 @@
 ---
 title: Topics to Come
+name: topics
 order: 3
 ---
 

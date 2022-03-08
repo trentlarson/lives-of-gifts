@@ -1,5 +1,6 @@
 ---
 title: Why not?
+name: why
 order: 2
 ---
 

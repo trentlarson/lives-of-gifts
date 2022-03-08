@@ -1,4 +1,4 @@
-// These three are similar: contact.js, opportunities.js, related.js
+// These four are similar: contact.js, opportunities.js, pledge.js, related.js
 
 import { faMailBulk } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';

@@ -25,7 +25,6 @@ const Reasons = ({
           markdown.map((reason) => (
             <li key={reason.node.frontmatter.name}>
               <div>
-                <h2>{reason.node.frontmatter.name}</h2>
                 {
                   reason.node.frontmatter.title
                   && (

@@ -1,5 +1,4 @@
 ---
-image: ../../images/research/lifting-walls-square.png
 order: 1
 ---
 
