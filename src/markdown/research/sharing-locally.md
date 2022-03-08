@@ -1,7 +1,7 @@
 ---
 title: Sharing Ideas & Skills
 image: ../../images/research/group-chat-square.png
-order: 1
+order: 2
 ---
 
 Everyone can learn, and everyone can teach. In a community, everyone benefits,

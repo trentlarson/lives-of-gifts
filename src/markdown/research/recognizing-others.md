@@ -1,7 +1,7 @@
 ---
 title: Recognition
 image: ../../images/research/trophy-presentation.png
-order: 3
+order: 4
 ---
 
 It's always nice to receive recognition. (It's even nicer to give it, so take every opportunity to thank people, even for random things at random times!)

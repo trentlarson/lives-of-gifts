@@ -1,7 +1,7 @@
 ---
 title: Wishcrafting
 image: ../../images/research/lifting-walls-square.png
-order: 2
+order: 3
 ---
 
 Greatness evolves. It starts from somewhere, so let's get together and build our
