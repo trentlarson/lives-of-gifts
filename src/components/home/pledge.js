@@ -31,7 +31,7 @@ const PledgeContainer = ({ pledgeData }) => {
           </h2>
 
           <h3>"I am building a society based on giving, in ways that fulfill me."</h3>
-          <h4>{ pledgeData.length } people have accepted* that pledge. The most recent was recorded at { pledgeData.length > 0 ? pledgeData.at(-1).replace('T', ' ') : '' }</h4>
+          <h4>{ pledgeData.length || '?' } people have accepted that pledge. The most recent was recorded at { pledgeData.length > 0 ? pledgeData.at(-1).replace('T', ' ') : '?' } *</h4>
 
           <div dangerouslySetInnerHTML={{ __html: query.markdown.html }} />
 
@@ -41,7 +41,7 @@ const PledgeContainer = ({ pledgeData }) => {
           <br />
           <br />
           <p>
-          * Note that the numbers above are not scientific due to the nature of the pledge recording system: Endorser.ch focuses on network connections, so the best way to see the impact near you is to check with the app to see if anyone in your network has taken it. (Someday we may record pledges backed by BrightID, Proof of Humanity, Idena, etc.)
+          * Note that Endorser.ch focuses on network connections, so the best way to see the full impact around you is through the app, checking if anyone in your network has taken the pledge. (Not all pledges are independently auditable, though someday we may record pledges along with proof-of-uniqueness backed by BrightID, Proof of Humanity, Idena, etc.)
           </p>
 
         </section>
