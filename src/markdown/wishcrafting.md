@@ -20,26 +20,25 @@ Bring the project you'd like to see come to life, no matter how impractical at t
 Here are sample invite instructions for the participants:
 
 - Prepare.
-  - No pressure... just plan to describe or show your idea in 5-10 minutes.
+  - Plan for 5-10 minutes to describe or show your idea.
   - Start with the dream, motivation, passion... the reasons for your Wish.
   - Explain your plans. This is the meat. It can be at any level of definition, but aim to end with what you think are the next concrete problems, actions, or goals.
   - If you have an invite for others to help or participate later, aim to have concrete things they can do independently.
 
 - Present Wishes (5-15 minutes).
-  - Start with the Dream, Motivation, Passion... the Reasons for your Plan.
-  - Explain your Plan. This is the meat. It can be at any level of definition, but aim to end with what you think are the next concrete actions or goals.
-  - If you have an invite for others to participate, aim to have concrete things they can do independently.
+  - You have a friendly, captive audience... enjoy!
+  - If you want interaction, remember to pause and solicit questions along the way.
 
 - Catch questions (10-15 minutes... for a total of about 15-30 minutes, based on other time allowances/constraints).
   - Anyone can ask questions and give advice.
   - Brainstorms are encouraged. Consider alternative problem statements, timelines, audiences, invites, and even Dreams. Here are some questions you might ask:
-    - Who else have you found doing something similar? What are the products or organizations that overlap?
-    - What are the other blogs or feeds you use for inspiration?
+    - Who is doing something similar? What are the products or organizations that overlap?
+    - What are the blogs or feeds you use for inspiration?
     - What progress or change would you love to see in 1 year? In 5 years? Next week?
     - How long have you been excited about this, and what progress can we celebrate now?
     - Who are your other friends with whom you have not discussed this yet?
     - What is your biggest challenge or need?
     - What is the part of this that you understand the least?
-    - What inspires you the most (even if it's unrelated to this)? (This could spark totally unrelated ideas.)
+    - What inspires you the most -- even if it's unrelated to this? (This could spark totally unrelated ideas.)
 
 Enjoy!
