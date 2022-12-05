@@ -1,7 +1,28 @@
-- .5 include instructions for gratitude, hashtag
-- 01 write a plan for goals for fun
-- 03 Run first Grand Ideas seminar id:wishcrafting
-- 01 Goals & OKRs?
-- 02 Write about economics: viability, sustainability, subscriptions, property/posessions, resources, asset class (debt vs equity)
-- 02 Page on maximizing gifts & links to frugal living
-- 01 Page on submitting other gift projects (with mine preloaded)
+- .5 include instructions for gratitude, hashtag :
+  blocks: ref:transcendent-action
+
+- 01 write a plan for goals for fun :
+  blocks: ref:transcendent-action
+
+- 03 Run first Grand Ideas seminar id:wishcrafting :
+  blocks: ref:transcendent-action
+
+- 01 Goals & OKRs? :
+  blocks: ref:transcendent-action
+
+- 02 Write about economics :
+  topics: viability, sustainability, subscriptions, property/posessions, resources, asset class (debt vs equity)
+  blocks: ref:transcendent-action
+
+- 02 Page on maximizing gifts & links to frugal living :
+  blocks: ref:transcendent-action
+
+- 01 Page on submitting other gift projects (with mine preloaded) :
+  blocks: ref:transcendent-action
+
+- kickstarter for time:
+  blocks: ref:transcendent-action
+
+- regular transcendent action id:transcendent-action
+
+- minimal fear
