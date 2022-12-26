@@ -3,7 +3,7 @@
 
 To develop:
 
-- `yarn install`
+- `yarn`
 - `yarn dev`
 
 To deploy:
