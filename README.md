@@ -11,6 +11,7 @@ To deploy:
 - `yarn run build`
 - test: run an HTTP server in the 'public' directory
 - deploy: `rsync -azvu public/ ...@...:www/livesofgifts/`
+  ... where all files typically get changed, even for simple edits.
 
 ### Elements
 

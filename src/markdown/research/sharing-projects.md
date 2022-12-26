@@ -1,6 +1,6 @@
 ---
 title: Sharing Projects
-image: ../../images/research/face-painting.png
+image: ../../images/research/lifting-walls-square.png
 order: 1
 ---
 
