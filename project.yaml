@@ -1,5 +1,5 @@
 - get observablehq page working (with refs) :
-  blocks: ref#project-submission
+  blocks: ref:#project-submission
 
 - .5 include instructions for gratitude, hashtag :
   blocks: ref:#transcendent-action
