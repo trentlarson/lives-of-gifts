@@ -1,4 +1,4 @@
-- get observablehq page working (with refs) :
+- 04 get observablehq page working with refs to other pages :
   blocks: ref:#project-submission
 
 - .5 include instructions for gratitude, hashtag :
@@ -20,11 +20,17 @@
 - 02 Page on maximizing gifts & links to frugal living :
   blocks: ref:#transcendent-action
 
-- 01 Page on submitting other gift projects (with mine preloaded) :
+- 01 Page on submitting other gift projects (with mine preloaded) id:project-submission :
   blocks: ref:#transcendent-action
 
-- kickstarter for time:
+- 1000 kickstarter for time:
   blocks: ref:#transcendent-action
+
+- 10000 fund a minimal lifestyle for 50 people, voluntarily :
+  blocks: ref:#minimal%20fear
+
+- 50000 build a sustainable, voluntary water delivery project :
+  blocks: ref:#minimal%20fear
 
 - regular transcendent action id:transcendent-action
 
