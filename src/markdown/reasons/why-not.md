@@ -22,18 +22,24 @@ order: 2
 
 "No, seriously: the freeloaders would drag down everyone else."
 
-* Nope. Not unless producers allowed jealously to overcome them, and then apply
-  economic or physical violence to ensure that freeloaders cannot choose their
-  own livelihoods.
+* Nope. That only happens when producers have less of a spirit of charity and
+  have more of a sense of jealousy or greed in their lives. There is a valid
+  argument against giving children everything they want; there is no valid
+  argument against giving children and everyone else in the world everything
+  they need to survive.
 
-"No, you're still missing the point: the freeloaders will cause mayhem and violence."
+"No, you're still missing the point: the freeloaders will take more than they deserve, often violently."
 
 * Only if the culture has an unbalanced value of material goods or forceful
-  activities.
+  activities. Even if you judge today's world to be that sort of culture, the
+  majority of violence and theft are reactionary in nature, in rebellion against
+  unfair systems. We can overcome with a better culture.
 
 "If we give everything away, we'll end up with nothing."
 
-* There is definitely a range of effective and ineffective giving. There is no reason to give everything to the point where your own livelihood is at risk. The volition of the giver is paramount to any gift.
+* There is definitely a range of effective and ineffective giving. There is no
+  reason to give everything to the point where your own livelihood is at risk.
+  The volition of the giver is paramount to any gift.
 
 "Nobody will choose live this way."
 
@@ -48,7 +54,7 @@ order: 2
 
 "This lifestyle would not survive because the existing power structures require money to work collectively."
 
-* If you're talking banks and military might, this is true, and many of us
+* If you're talking banks and military might, this is true today, and many of us
   cannot wait to starve them out; large-scale operations do more to serve the
   egos and lifestyles of authoritarians than to actually serve people. If you're
   talking about governance of limited goods (like water & land), see Elinor
@@ -72,6 +78,6 @@ taxes and by force."
 
 "You're dreaming! The world today proves the inevitable supremacy of large, forceful nation-states."
 
-* Our history demonstrates the power and widespread attraction of a particular mindset; however, it also happened in a particular world and time frame, and we're in a different world now where information is now much more widespread and lies and improper authoritarianism are more difficult to cloak. This will lead to a realization that all people are equally worthy to make their own life choices... so those of us today who can give, will give as much as we can for the benefit of one another and of future generations.
+* Our history demonstrates the power and widespread attraction of a particular mindset; however, it also happened in a particular world and time frame, and we're in a different world now where information is now much more widespread. Lies and improper authoritarianism are more difficult to cloak. This will lead to a realization that all people are equally worthy to make their own life choices... so those of us today who can give, will give as much as we can for the benefit of one another and of future generations.
 
-* We're building human-oriented society. And the only way to get there is through application of the best moral compass imaginable.
+* We're building human-oriented society. The only way to get there is through application of the best moral compass imaginable.
