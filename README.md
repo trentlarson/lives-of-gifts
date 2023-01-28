@@ -15,15 +15,19 @@ To deploy:
 
 ### Elements
 
+- The front page starts at `src/components/home/home.js` (linked from `src/pages/index.js`).
+  - Most content is found in `src/markdown/`.
+  - The "Experiences" blurbs are found in `src/markdown/research/`.
 - Add Links on the main page by adding to the gatsby-config.js `primaryLinks`.
 - Add Publications page & link by adding to the gatsby-config.js `publications`.
 - Add People page & link by adding .md files in the src/markdown/people directory.
 
 ### Credits
 
-All pictures include people we know personally.
-* group-chat-square.png is from a speaking and networking event on April 21, 2021.
+All pictures contain people & events we know personally.
 * hand-up.png is from a group trust actvity on August 3, 2010.
+* face-painting.png is from a local kids' fair on June 5, 2009.
+* group-chat-square.png is from a speaking and networking event on April 21, 2021.
 * lifting-walls-square.png is from an international volunteer home building on January 2, 2020
 * love-thy-neighbor-poster.png is from a protest against race division on April 25, 2021.
 * make-smiles-contagious.png is from a cleanup and mask trashing on March 21, 2021.

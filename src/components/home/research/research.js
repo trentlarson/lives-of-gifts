@@ -17,7 +17,7 @@ const Research = ({
   >
     <h2>
       <FontAwesomeIcon icon={faSearch} />
-      Experiences
+      Affiliated Projects
     </h2>
     <ul className="research__list">
       {

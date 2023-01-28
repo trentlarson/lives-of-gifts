@@ -30,10 +30,11 @@ Capabilities grow over time.
 
 ## Have money?
 
-- I have a feeling you have no shortage of opportunities, but the ideas above
-  might give some inspiration.
+- Money is easy to give: be sure to consider both short- and long-term
+  consequences, and both local and global contexts That way you gain a balance
+  of deep & close relationships alongside the benefits of wider but more shallow
+  impact.
 
-- Challenge grants are available in every domain you want to grow, and that
-  brings even more participation.
-
-- For more help on real impact via experiences, feel free to contact us.
+- We expect to grow meaningful collaboration, so contact us for real impact via
+  experiences. Just realize we will always value the benefit to future
+  generations above pure monetary payback.

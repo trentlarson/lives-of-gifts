@@ -10,8 +10,8 @@ able to achieve our highest potential. Do you believe we can get there?
 
 If so, join us by spending your extra time by giving to that, freely. Whereas
 most people interact by carefully guarding their time and money with
-measurements, let's give without specific guarantees to people in that future
-world -- ourselves included.
+measurements and trade, let's give unconditionally to people in that
+future world -- ourselves included.
 
 ### The plan is straightforward. ###
 

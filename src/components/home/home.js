@@ -7,6 +7,7 @@ import About from './about/about-container';
 import Contact from './contact';
 import Landing from './landing/landing-container';
 import Opportunities from './opportunities';
+import PrimaryGoals from './primary-goals';
 import Related from './related';
 import Research from './research/research-container';
 import { GutterLeft, GutterRight } from './gutter/gutter';
@@ -20,8 +21,9 @@ const Home = () => (
       <GutterLeft />
       <div className="home__inner">
         <About />
-        <Research />
+        <PrimaryGoals />
         <Opportunities />
+        <Research />
         <Related />
         <Contact />
       </div>

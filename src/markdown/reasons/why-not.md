@@ -9,10 +9,12 @@ order: 2
 * Wrong. Money is an efficient measurement that has brought us great innovations
   & improvements rapidly, but it is hardly a necessity. How many farmers and
   builders would just never work again if everything was provided for them? Of
-  course people would work, and we would not die. People just wouldn't be pushed
-  to work -- unless they drove themselves, which most of us do anyway. If we had
-  already started along this path, we would be much more fulfilled... we would
-  not be as prosperous as we are now, but we'd get here eventually, anyway.
+  course people would work and produce, and humans would still adapt and thrive,
+  just in different ways. People wouldn't be pushed to work -- unless they drove
+  themselves, which most of us do anyway. If we had already started along this
+  path, we would be much more fulfilled... we would not currently be as
+  prosperous as we (Global North) are at this point in history, but humankind
+  would get here eventually.
 
 * Oh, and see David Graeber's research on the real origins of money.
 
@@ -22,10 +24,10 @@ order: 2
 
 "No, seriously: the freeloaders would drag down everyone else."
 
-* Nope. That only happens when producers have less of a spirit of charity and
+* Nope. That only happens when producers have less of a value of charity and
   have more of a sense of jealousy or greed in their lives. There is a valid
   argument against giving children everything they want; there is no valid
-  argument against giving children and everyone else in the world everything
+  argument against giving children and everyone else in the world the basics
   they need to survive.
 
 "No, you're still missing the point: the freeloaders will take more than they deserve, often violently."
@@ -48,17 +50,17 @@ order: 2
 
 "Only a few folks on the fringe would do this. The vast majority of the world will choose to participate in the monetary market economy."
 
-* That's true for now, in the year 2020, because that's the focus of the
+* That's true for now, at this point in history, because that's the focus of the
   dominant power structures. But once we demonstrate the life-affirming
   practices of a non-monetary society, more will be attracted.
 
 "This lifestyle would not survive because the existing power structures require money to work collectively."
 
-* If you're talking banks and military might, this is true today, and many of us
-  cannot wait to starve them out; large-scale operations do more to serve the
-  egos and lifestyles of authoritarians than to actually serve people. If you're
-  talking about governance of limited goods (like water & land), see Elinor
-  Ostrom's work showing how collective ownership has worked.
+* If you're talking banks and military might, then, yes, this is true today --
+  but many of us cannot wait to starve them out. Large-scale operations do more
+  to serve the egos and lifestyles of authoritarians than to actually serve
+  people. If you're talking about governance of limited goods (like water &
+  land), see Elinor Ostrom's work showing how collective ownership has worked.
 
 "This is practical inside a community, but gifting breaks down in between tribes."
 
