@@ -21,8 +21,8 @@ Then minimize and satisfy our basic needs, and invest our extra time and energy
 and money by giving them away, freely, until that dominates money. Life's
 grandest rewards come when we give without conditions and without any
 expectation of return. But furthermore: with a change in focus, all today's
-scarcity mindsets can be replaced with systems that encourage even more giving,
-and we can starve out extractive institutions.
+scarcity mindsets will be replaced with systems that encourage even more giving,
+and we will starve out extractive institutions.
 
 Commitments will always be important. Some measurements (eg. money) will be
 important in some contexts. But the most important work we can do is not
@@ -55,9 +55,9 @@ Before long, we'll work out how to live whole lives based on gifts.
 This isn't just philosophy or fun ideas: communities have lived this way
 before, and it's only a shift in values and bad examples that have pushed us
 into a world where we live with high levels of indebtedness and uncertainty. We
-can refocus. We can practice this wherever we live, whether in the most
+will refocus. We will practice this wherever we live, whether in the most
 cooperative community or in the staunchest totalitarian or capitalist
-societies... in any situation, we can increases joy in the world and invest in
+societies... in any situation, we will increase joy in the world and invest in
 our future. And hearts are the only way to change the world permanently; no
 outside-in or system-oriented approach can.
 
