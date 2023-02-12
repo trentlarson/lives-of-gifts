@@ -1,11 +1,10 @@
 
 
-- 01 simplify and focus website on main 2 propositions :
-  subtasks :
-  - 01 fill out actions for two major initiatives
-  - .5 include instructions for gratitude :
-    blocks : ref:#transcendent-action
+- 01 Page on submitting other gift projects (with mine preloaded) id:project-submission :
+  blocks: ref:#transcendent-action
 
+- 01 Page on submitting gratitude id:gratitude-submission :
+  blocks: ref:#transcendent-action
 
 - 01 write a plan for goals for fun :
   blocks: ref:#transcendent-action
@@ -13,7 +12,7 @@
 - 03 Run second Grand Ideas seminar id:wishcrafting :
   blocks: ref:#transcendent-action
 
-- 01 Goals & OKRs? :
+- 01 Goals & OKRs :
   blocks: ref:#transcendent-action
 
 - 02 Write about economics :
@@ -21,9 +20,6 @@
   blocks: ref:#transcendent-action
 
 - 02 Page on maximizing gifts & links to frugal living :
-  blocks: ref:#transcendent-action
-
-- 01 Page on submitting other gift projects (with mine preloaded) id:project-submission :
   blocks: ref:#transcendent-action
 
 - 1000 kickstarter for time:
@@ -41,3 +37,5 @@
 
 - x get observablehq page working with refs to other pages :
   blocks: ref:#project-submission
+
+- x 01 simplify and focus website on main 2 propositions :

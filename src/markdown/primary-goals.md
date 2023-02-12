@@ -13,7 +13,7 @@
 
 # Current Initiatives
 
-- See our [overall plans](https://observablehq.com/d/83a90a6d6cd11999?loadTaskUrl=https%3A%2F%2Fraw.githubusercontent.com%2Ftrentlarson%2Flives-of-gifts%2Fmaster%2Fproject.yaml).
+- See our [overall plans](https://observablehq.com/d/83a90a6d6cd11999?loadTaskUrl=https://raw.githubusercontent.com/trentlarson/lives-of-gifts/master/project.yaml).
 
 * Voluntary Gifts & Governance
 
