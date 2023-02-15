@@ -1,6 +1,7 @@
 
 
 - 01 Page on submitting other gift projects (with mine preloaded) id:project-submission :
+  - add search for Projects (currently only see PlanAction)
   blocks: ref:#transcendent-action
 
 - 01 Page on submitting gratitude id:gratitude-submission :
