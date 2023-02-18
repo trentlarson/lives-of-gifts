@@ -1,15 +1,15 @@
 
-# Methods
-
-* Give Freely
-
-* Live Simply
-
 # Highest Aims
 
 * Maximize Transcendent Experiences
 
 * Minimize Traumatic Fear
+
+# Methods
+
+* Give Freely
+
+* Live Simply
 
 # Current Initiatives
 
