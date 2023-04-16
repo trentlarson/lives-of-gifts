@@ -9,7 +9,7 @@ import React from 'react';
 import './color-space.css';
 
 const ProjectContainer = ({ planProjectData }) => {
-  console.log('planProjectData',planProjectData)
+  //console.log('planProjectData',planProjectData)
   const data = planProjectData
   return (
     <section className="colored-spaced" id="projects">

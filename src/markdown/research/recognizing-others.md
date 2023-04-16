@@ -4,6 +4,10 @@ image: ../../images/research/trophy-presentation.png
 order: 5
 ---
 
-It's always nice to receive recognition. (It's even nicer to give it, so take every opportunity to thank people, even for random things at random times!)
+When were you last recognized for something you've done? Take that energy and pour it into someone else... a few words will be remembered for a long time.
 
-Although we don't want to brag about what we've done, it lifts us up when we can remind ourselves that others have appreciated something about us. So here is a way to semi-publicly give and receive thanks: go to the [Endorser.ch](https://endorser.ch) app and choose a friend in your network and mention something positive that they've done. Maybe others will even agree... and the receipient has a cryptographically signed record, being an irrefutable reminder of inspiration.
+Here is another way to semi-publicly give and receive thanks: go to the [EndorserSearch.com](https://endorser.ch) app and choose a friend in your network and mention something positive that they've done. Maybe others will even agree... and the receipient has a cryptographically signed record, being an irrefutable reminder of inspiration.
+
+One more suggestion, all for yourself: when you take time daily to express your
+gratitude and/or journal your life, also mention one thing that you contributed
+today. Regular affirmations magnify your awareness!

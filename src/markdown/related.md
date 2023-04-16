@@ -5,7 +5,7 @@
 
 - [Debt: The First 5000 Years](https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years), a book by David Graeber, shows how indebtedness and money are phenomena maintained by force. (So... that means we can change things.)
 
-- [The Ohlone Tribe](https://www.shareable.net/15-ways-for-commoners-to-stay-sane-on-black-friday/) is an inspiring example of how a group's morals determine the quality of their society.
+- [The Ohlone Tribe](https://www.shareable.net/a-life-of-sharing/) is an inspiring example of how a group's morals determine the quality of their society.
 
 - [Partnerism](https://www.partnerism.org/) advocates for the non-competitive mindset, and the [Social Wealth Index](https://centerforpartnership.org/programs/social-wealth-index/) could be a good metric for progress.
 

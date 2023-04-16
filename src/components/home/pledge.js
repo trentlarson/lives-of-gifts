@@ -41,7 +41,7 @@ const PledgeContainer = ({ pledgeData }) => {
           <br />
           <br />
           <p>
-          * Note that Endorser.ch focuses on network connections, so the best way to see the full impact around you is through the app, checking if anyone in your network has taken the pledge. (Not all pledges are independently auditable, though someday we may record pledges along with proof-of-uniqueness backed by BrightID, Proof of Humanity, Idena, etc.)
+          * Note that EndorserSearch.com focuses on network connections, so the best way to see the full impact around you is through the app, checking if anyone in your network has taken the pledge. (Not all pledges are independently auditable, though someday we may record pledges along with proof-of-uniqueness backed by BrightID, Proof of Humanity, Idena, etc.)
           </p>
 
         </section>
