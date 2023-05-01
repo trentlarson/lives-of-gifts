@@ -6,16 +6,16 @@ title: About This Focus
 ### It starts with vision. ###
 
 Picture a world of cooperation and loving-kindness... a place where we are able
-to achieve our highest potential. Seriously: pause for just one minute and
-imagine that world.
+to achieve our highest potential. Seriously: close your eyes, pause for just 3
+breaths, and imagine that world.
 
 Now that you've seen it in your mind: do you believe we can get there?
 
 If so, you're already working on it, so let's recognize and celebrate that!
-Everyone gives what that can to their favorite people or causes. Some are able
-to give more. We honor every bit that is given freely. Whereas many people
-interact by carefully guarding their time and money with measurements and trade,
-let's give unconditionally to people in that future world.
+Everyone already gives what that can to their favorite people or causes. Some
+are able to give more. We honor every bit that is given freely. Whereas many
+people interact by carefully guarding their time and money with measurements and
+trade, let's give unconditionally to people in that future world.
 
 ### The plan is straightforward. ###
 
@@ -25,8 +25,8 @@ First, keep that future in mind. We'll only get there if it's in our sights.
   deal with everyday needs and with the people immediately around us. Part of
   our work is focused on the focus, keeping our highest goals in our sights.
 
-Then, after satisfying our basic needs, we invest our extra time and energy
-and money by giving them away, freely, until that dominates money.
+Now we invest our extra time and energy and money by giving them away, freely,
+until that dominates money.
 
 * Life's grandest rewards come from gifts without conditions, and without any
   expectation of return. We emphasize those rewards.
@@ -35,13 +35,12 @@ and money by giving them away, freely, until that dominates money.
   today's scarcity mindsets will be replaced with systems that encourage even
   more giving, and we will starve out extractive institutions.
 
-It will always be important to fulfill expectations; one's integrity is sacred.
-And some measurements (eg. money) will remain useful in some contexts. But the
-most important work we can do is unexpected and is not measured, so let's
-minimize our accounting systems and grow a culture that donates our work and our
-lives toward whatever satisfies our souls the most. Let's flip the script on
-today's trade-oriented world to one where we prioritize gifts... and go further:
-let's show how we can run our lives on a "gifting economy".
+Some measurements (eg. money) will remain useful in many contexts. But the most
+important work we can do is unexpected and is not measured, so let's minimize
+our accounting systems and grow a culture that donates our work and our lives
+toward whatever satisfies our souls the most. Let's flip the script on today's
+trade-oriented world to one where we prioritize gifts... and go further: let's
+show how we can run our lives on a "gifting economy".
 
 ### How? ###
 
