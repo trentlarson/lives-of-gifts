@@ -6,6 +6,8 @@
 - 01 Page on submitting gratitude id:gratitude-submission :
   blocks: ref:#transcendent-action
 
+- .5 Figure out why a change to this task list doesn't show immedately on a reload of the observablehq site
+
 - 01 write a plan for goals for fun :
   blocks: ref:#transcendent-action
 
