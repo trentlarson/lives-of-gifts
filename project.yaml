@@ -41,7 +41,10 @@
 - 1000 kickstarter for time:
   blocks: ref:#transcendent-action
 
-- 10000 fund a minimal lifestyle for 50 people, voluntarily :
+- 2000 fund a minimal lifestyle for 50 people, voluntarily id:minimal-lifestyle-1 :
+  blocks: ref:#minimal-lifestyle-50
+
+- 20000 fund a minimal lifestyle for 50 people, voluntarily id:minimal-lifestyle-50 :
   blocks: ref:#minimal%20fear
 
 - 50000 build a sustainable, voluntary water delivery project :
