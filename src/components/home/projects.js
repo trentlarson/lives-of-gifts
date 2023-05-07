@@ -18,10 +18,24 @@ const ProjectContainer = ({ planProjectData }) => {
         Plans & Projects
       </h2>
 
-      <h4>{ data.length || '?' } plans have been declared.</h4>
-      <h4>The most recent was recorded at { data.length > 0 ? data.at(-1).issuedAt.replace('T', ' ') : '?' }</h4>
+      <h3>Ones We're Watching</h3>
+
+      <ul>
+        <li><a href="https://theconsciousresistance.com/wp-content/uploads/2022/12/HowtoOpt-OutoftheTechnocraticState2ndEd-FINAL.pdf">Agorist Development Goals (page 105)</a>, with <a href="https://observablehq.com/d/83a90a6d6cd11999?loadTaskUrl=https://livesofgifts.org/project/agorist-development-goals.yaml">a project breakdown here</a></li>
+        <li><a href="https://sdgs.un.org">Sustainable Development Goals</a>, with <a href="https://observablehq.com/d/83a90a6d6cd11999?loadTaskUrl=https://livesofgifts.org/project/sustainable-development-goals.yaml">a project breakdown here</a></li>
+      </ul>
+
+      <h3>Ones Recorded on the Endorser Search Platform</h3>
+
+      Below are plans declared on <a href="https://EndorserSearch.com">EndorserSearch.com</a>, a place open for all to advertise their projects.
 
       <br />
+      <br />
+      <h4>
+        { data.length || '?' } plans have been recorded,
+        with the most recent at { data.length > 0 ? data.at(-1).issuedAt.replace('T', ' ') : '?' }
+      </h4>
+
       <ul>
       {
         data.map(entry =>
@@ -29,9 +43,6 @@ const ProjectContainer = ({ planProjectData }) => {
         )
       }
       </ul>
-      <br />
-      <br />
-      These plans were created on the <a href="https://EndorserSearch.com">EndorserSearch.com platform</a>.
     </section>
   );
 };
