@@ -6,7 +6,11 @@
 - 01 Page on submitting gratitude id:gratitude-submission :
   blocks: ref:#transcendent-action
 
-- .5 Figure out why a change to this task list doesn't show immedately on a reload of the observablehq site
+- Make the ObservableHQ renderings useful :
+  blocks: ref:#transcendent-action
+  awaits:
+    - 01 Figure out why nested-nested "awaits" doesn't render precedent correctly, eg. minimal-lifestyle-events issue :
+    - .5 Figure out why a change to this task list doesn't show immedately on a reload of the observablehq site
 
 - 01 write a plan for goals for fun :
   blocks: ref:#transcendent-action
@@ -32,7 +36,7 @@
   subtasks :
   - page of instructions for semantics and/or endpoints
 
-- Content :
+- Write & create other media :
   blocks : ref:#transcendent-action
   subtasks :
   - written :
@@ -43,11 +47,13 @@
 - 1000 kickstarter for time:
   blocks: ref:#transcendent-action
 
-- 2000 fund a minimal lifestyle for 50 people, voluntarily id:minimal-lifestyle-1 :
-  blocks: ref:#minimal-lifestyle-50
+- 200 fund regular events (dinners?) for basic lifestyle id:minimal-lifestyle-events :
+  blocks: ref:#minimal-lifestyle-1
 
-- 20000 fund a minimal lifestyle for 50 people, voluntarily id:minimal-lifestyle-50 :
+- 20000 fund a basic lifestyle for 50 people, voluntarily id:minimal-lifestyle-50 :
   blocks: ref:#minimal%20fear
+  awaits:
+    - 2000 fund a basic lifestyle for 1 person, voluntarily id:minimal-lifestyle-1
 
 - 50000 build a sustainable, voluntary water delivery project :
   blocks: ref:#minimal%20fear
