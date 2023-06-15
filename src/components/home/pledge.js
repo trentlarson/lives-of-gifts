@@ -1,4 +1,3 @@
-// These four are similar: contact.js, opportunities.js, pledge.js, related.js
 
 import { faHandSparkles } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -30,7 +29,7 @@ const PledgeContainer = ({ pledgeData }) => {
             Pledge
           </h2>
 
-          <h3>"I am building a society based on giving, in ways that fulfill me."</h3>
+          <h3>"I am building a gifting society, in ways that fulfill me."</h3>
           <h4>{ pledgeData.length || '?' } people have accepted that pledge. The most recent was recorded at { pledgeData.length > 0 ? pledgeData.at(-1).replace('T', ' ') : '?' } *</h4>
 
           <div dangerouslySetInnerHTML={{ __html: query.markdown.html }} />

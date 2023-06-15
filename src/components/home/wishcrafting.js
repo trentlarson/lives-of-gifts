@@ -1,4 +1,5 @@
-// These three are similar: contact.js, opportunities.js, related.js
+// These are similar: contact.js, opportunities.js, related.js, wishcrafting.js
+// ... but you probably want to emulate progress.js + progress.md
 
 import { faStar } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';

@@ -18,6 +18,7 @@ To deploy:
 - The front page starts at `src/components/home/home.js` (linked from `src/pages/index.js`).
   - Most content is found in `src/markdown/`.
   - The "Experiences" blurbs are found in `src/markdown/research/`.
+  - To add a page at /PATH, add a PATH.js file in src/pages (eg. progress.js)
 - Add Links on the main page by adding to the gatsby-config.js `primaryLinks`.
 - Add Publications page & link by adding to the gatsby-config.js `publications`.
 - Add People page & link by adding .md files in the src/markdown/people directory.

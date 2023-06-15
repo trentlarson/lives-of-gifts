@@ -1,4 +1,26 @@
 
+- update website
+  - modify home page opportunitiesx
+
+- Assembly :
+  - buy tix
+  - find volunteer opportunity
+  - flow for volunteering :
+    - prelim: create project, print card with project & app link
+    - during: I scan and register them, recognize their donation
+  - supertask: kickstarter for time
+
+- 01 Get board members :
+  awaits: deploy new pledges
+  blocks: ref:#transcendent-action
+
+- ShareBay & HonorPay
+
+- 01 Walk through example of traceable donation :
+  blocks: ref:#minimal-lifestyle-events
+
+- 01 Record overall financials, traded vs gifted
+
 - 01 Page on submitting other gift projects (with mine preloaded) id:project-submission :
   - add search for Projects (currently only see PlanAction)
   blocks: ref:#transcendent-action
@@ -44,18 +66,18 @@
     - story
   - video
 
-- 1000 kickstarter for time:
+- 1000 kickstarter for time :
   blocks: ref:#transcendent-action
 
-- 200 fund regular events (dinners?) for basic lifestyle id:minimal-lifestyle-events :
-  blocks: ref:#minimal-lifestyle-1
+- 20000 log free education for 50 kids :
+  - 2000 log free education
 
-- 20000 fund a basic lifestyle for 50 people, voluntarily id:minimal-lifestyle-50 :
+- 20000 provide a basic lifestyle for 50 people, voluntarily id:minimal-lifestyle-50 :
+  - 2000 fund a basic lifestyle for 1 person, voluntarily id:minimal-lifestyle-1 :
+    - 200 provide regular events (dinners?) for basic lifestyle
   blocks: ref:#minimal%20fear
-  awaits:
-    - 2000 fund a basic lifestyle for 1 person, voluntarily id:minimal-lifestyle-1
 
-- 50000 build a sustainable, voluntary water delivery project :
+- 40000 build a sustainable, voluntary water delivery project :
   blocks: ref:#minimal%20fear
 
 - regular transcendent action id:transcendent-action

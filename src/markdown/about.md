@@ -1,9 +1,12 @@
 ---
 image: ../images/love-thy-neighbor-poster.png
-title: About This Focus
+title: Philosophy
 ---
 
 ### It starts with vision. ###
+
+
+
 
 Picture a world of cooperation and loving-kindness... a place where we are able
 to achieve our highest potential. Seriously: close your eyes, pause for just 3
