@@ -19,7 +19,7 @@ We are also a part of the following initiatives under development.
 
 * Voluntary Gifts & Governance
 
-  - [Endorser Search](https://EndorserSearch.com) is a proof-of-concept to propose projects, donate time to friends, & start evolving good governance voluntarily. Help develop it more, or help with [a more user-friendly version](https://gitea.anomalistdesign.com/trent_larson/kick-starter-for-time-pwa).
+  - [Endorser Search](https://EndorserSearch.org) is a proof-of-concept to propose projects, donate time to friends, & start evolving good governance voluntarily. Help develop it more, or help with [a more user-friendly version](https://gitea.anomalistdesign.com/trent_larson/kick-starter-for-time-pwa).
 
   - [ShareBay](https://sharebay.org) aims to build a giving society. Help us develop it more.
 

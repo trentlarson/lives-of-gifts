@@ -27,7 +27,7 @@ const ProjectContainer = ({ planProjectData }) => {
 
       <h3>Ones Recorded on the Endorser Search Platform</h3>
 
-      Below are plans declared on <a href="https://EndorserSearch.com">EndorserSearch.com</a>, a place open for all to advertise their projects.
+      Below are plans declared on <a href="https://EndorserSearch.org">EndorserSearch.org</a>, a place open for all to advertise their projects.
 
       <br />
       <br />

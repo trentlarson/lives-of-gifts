@@ -22,10 +22,6 @@ const Home = () => (
       <div className="home__inner">
 
         <div style={{ marginTop: 20 }}>
-          <h4>Building a Gifting Society, in Ways that Fulfill Us</h4>
-        </div>
-
-        <div style={{ marginTop: 20 }}>
           Start by <a href="/gifting-app">recognizing all the gifts you're already given</a>.
           <br />
           Then:
@@ -41,7 +37,7 @@ const Home = () => (
                   <summary><b style={{ fontSize: 'x-large' }}>Want to build communities via free association?</b></summary>
                   <details>
                     <summary><b style={{ fontSize: 'large' }}>Announce it.</b></summary>
-                    <p>First, show your support for <a href="/basic-pl">the basic pledge</a>.</p>
+                    <p>First, show your support for <a href="/pledge">the basic pledge</a>.</p>
                     <p>Then read <a href="/pledge-voluntary">the "voluntary" pledge</a> pledge and, if you agree, sign it and read on.</p>
                   </details>
                   <details>
@@ -52,7 +48,7 @@ const Home = () => (
                     <p>See if any of our events look interesting, and then join us -- or contact us for help to run your own.</p>
                     <details>
                       <summary><b style={{ fontSize: 'large' }}>Have expertise in programming?</b></summary>
-                      <p>If you are interested in building organizations in a self-sovereign way, let's talk. We have <a href="https://endorsersearch.com">an MVP</a>, and we have plans for more general reach. Contact us below.</p>
+                      <p>If you are interested in building organizations in a self-sovereign way, let's talk. We have <a href="https://endorsersearch.org">an MVP</a>, and we have plans for more general reach. Contact us below.</p>
                     </details>
                     <details>
                       <summary><b style={{ fontSize: 'large' }}>Have expertise in economics & finance?</b></summary>
@@ -79,8 +75,8 @@ const Home = () => (
                   </summary>
                   <details>
                     <summary><b style={{ fontSize: 'large' }}>Announce it.</b></summary>
-                    <p>First, show your support for <a href="/basic-pl">the basic pledge</a>.</p>
-                    <p>Read <a href="/pledge-pursue">the "pursue" pledge</a> pledge and, if you agree, sign it and read on.</p>
+                    <p>First, show your support for <a href="/pledge">the basic pledge</a>.</p>
+                    <p>Read <a href="/pledge-pursuit">the "pursue" pledge</a> pledge and, if you agree, sign it and read on.</p>
                   </details>
                   <details>
                     <summary><b style={{ fontSize: 'large' }}>Have time?</b></summary>
