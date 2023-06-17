@@ -1,4 +1,6 @@
 
+- HEY! Remove this file and point at https://raw.githubusercontent.com/trentlarson/lives-of-gifts/master/project.task.yaml
+
 - update website and app :
   - note everywhere the need for registration
   - get friends to recommit to new version of basic pledge
@@ -34,8 +36,6 @@
   awaits:
     - 01 Figure out why nested-nested "awaits" doesn't render precedent correctly, eg. minimal-lifestyle-events issue :
     - .5 Figure out why a change to this task list doesn't show immedately on a reload of the observablehq site
-
-- Figure out problems with ObservableHQ rendering of this list, eg. "blocks" and internal references
 
 - 01 write a plan for goals for fun :
   blocks: ref:#transcendent-action

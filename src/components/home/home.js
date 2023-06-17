@@ -22,9 +22,7 @@ const Home = () => (
       <div className="home__inner">
 
         <div style={{ marginTop: 20 }}>
-          Start by <a href="/gifting-app">recognizing all the gifts you're already given</a>.
-          <br />
-          Then:
+          Quick Start: <a href="/gifting-app">recognize regularly the gifts you're already given</a>, then...
         </div>
 
         <div style={{ marginBottom: 50, marginTop: 50 }}>
@@ -37,7 +35,7 @@ const Home = () => (
                   <summary><b style={{ fontSize: 'x-large' }}>Want to build communities via free association?</b></summary>
                   <details>
                     <summary><b style={{ fontSize: 'large' }}>Announce it.</b></summary>
-                    <p>First, show your support for <a href="/pledge">the basic pledge</a>.</p>
+                    <p>First, show your support for <a href="/pledge">the basic gifting pledge</a>.</p>
                     <p>Then read <a href="/pledge-voluntary">the "voluntary" pledge</a> pledge and, if you agree, sign it and read on.</p>
                   </details>
                   <details>
@@ -75,7 +73,7 @@ const Home = () => (
                   </summary>
                   <details>
                     <summary><b style={{ fontSize: 'large' }}>Announce it.</b></summary>
-                    <p>First, show your support for <a href="/pledge">the basic pledge</a>.</p>
+                    <p>First, show your support for <a href="/pledge">the basic gifting pledge</a>.</p>
                     <p>Read <a href="/pledge-pursuit">the "pursue" pledge</a> pledge and, if you agree, sign it and read on.</p>
                   </details>
                   <details>
@@ -97,14 +95,14 @@ const Home = () => (
           </div>
 
           <div style={{ textAlign: 'center' }}>
-            <h2>... or: do you want to <a href="/founders">help with both?</a></h2>
+            <h2>... or, do you believe in <a href="/founders">both?</a></h2>
           </div>
         </div>
 
         <About />
         <PrimaryGoals />
-        <Opportunities />
         <Research />
+        <Opportunities />
         <Related />
         <Contact />
       </div>

@@ -1,5 +1,4 @@
-
-We have specific strategies in mind, but there are many other great ways to spread gifts.
+You see specific strategies here, but there are many other great ways to spread gifts.
 
 ## Have time?
 

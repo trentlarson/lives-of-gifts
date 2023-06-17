@@ -69,11 +69,11 @@ In terms of action:
 
 ### Is it even possible? ###
 
-This isn't just philosophy or fun ideas: communities have lived this way before,
-and simple bad social leadership has pushed us into a world where we live with
-high levels of indebtedness and uncertainty. We will refocus. We will practice
-this wherever we live, whether in the most cooperative community or in the
-staunchest totalitarian or capitalist societies... in any situation, we will
+This isn't merely philosophy or fun ideas: communities have lived this way
+before, and simple bad social leadership has pushed us into a world where we
+live with high levels of indebtedness and uncertainty. We will refocus. We will
+practice this wherever we live, whether in the most cooperative community or in
+the staunchest totalitarian or capitalist societies... in any situation, we will
 increase joy in the world and invest in our future. Hearts are the only way to
 change the world permanently; no outside-in or system-oriented approach can.
 

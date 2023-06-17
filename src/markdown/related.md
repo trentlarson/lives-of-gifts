@@ -1,4 +1,6 @@
 
+- The [Utah Terraculture Project](https://www.terracultureproject.org/) demonstrates healthy ways of living with minimal effort, as naturally as possible. 
+
 - [ShareBay](https://sharebay.org) and [Olio](olioex.com) and [others](https://openaccesseconomy.org/doku.php?id=prototyping) have ways to connect with others for free offerings.
 
 - [Open Access Economy](https://openaccesseconomy.org) contains references for community growth in similar ways.

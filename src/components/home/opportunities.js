@@ -27,7 +27,7 @@ const OpportunitiesContainer = () => {
         <section className="colored-spaced" id="related">
           <h2>
             <FontAwesomeIcon icon={faUserFriends} />
-            Opportunities
+            Other Opportunities
           </h2>
           <div dangerouslySetInnerHTML={{ __html: query.markdown.html }} />
         </section>

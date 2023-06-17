@@ -1,0 +1,2 @@
+
+We've found that it is a rare person who agrees with both of these points, so we want to get to know you. You probably have projects of your own, and we'd love to help make them a reality while we learn from your experience. Once you sign both of those pledges on our app, <a href="mailto:info@livesofgifts.org">contact us</a> with your information and let's see how we can best support one another.

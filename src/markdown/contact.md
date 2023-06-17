@@ -1,1 +1,1 @@
-[TrentLarson.com](https://trentlarson.com)
+[Email](mailto:info@LivesOfGifts.org)
