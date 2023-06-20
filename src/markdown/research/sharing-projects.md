@@ -1,7 +1,7 @@
 ---
 title: Sharing Projects
 image: ../../images/research/lifting-walls-square.png
-order: 1
+order: 5
 ---
 
 What would you like help with, or how can you help in other projects? Let's get

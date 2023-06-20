@@ -1,7 +1,7 @@
 ---
 title: Recognition
 image: ../../images/research/trophy-presentation.png
-order: 5
+order: 2
 ---
 
 When were you last recognized for something you've done? Take that energy and pour it into someone else... a few words will be remembered for a long time.

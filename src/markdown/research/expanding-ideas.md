@@ -1,7 +1,7 @@
 ---
 title: Wishcrafting
 image: ../../images/research/face-painting.png
-order: 4
+order: 3
 ---
 
 Greatness evolves. It starts from somewhere, so let's get together and build our

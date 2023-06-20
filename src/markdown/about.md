@@ -5,9 +5,6 @@ title: Philosophy
 
 ### It starts with vision. ###
 
-
-
-
 Picture a world of cooperation and loving-kindness... a place where we are able
 to achieve our highest potential. Seriously: close your eyes, pause for just 3
 breaths, and imagine that world.
@@ -15,10 +12,10 @@ breaths, and imagine that world.
 Now that you've seen it in your mind: do you believe we can get there?
 
 If so, you're already working on it, so let's recognize and celebrate that!
-Everyone already gives what that can to their favorite people or causes. Some
-are able to give more. We honor every bit that is given freely. Whereas many
-people interact by carefully guarding their time and money with measurements and
-trade, let's give unconditionally to people in that future world.
+Everyone already gives what that can to their favorite people or causes. We
+honor every bit that is given freely. Whereas many people interact by carefully
+guarding their time and money with measurements and trade, let's give
+unconditionally to people in that future world.
 
 ### The plan is straightforward. ###
 
@@ -26,46 +23,32 @@ First, keep that future in mind. We'll only get there if it's in our sights.
 
 * That cannot be emphasized enough! It's easy to lose sight of our ideals as we
   deal with everyday needs and with the people immediately around us. Part of
-  our work is focused on the focus, keeping our highest goals in our sights.
+  our work is focused on the focus, keeping our highest goals in our sights. You
+  might call it a spiritual creation since it's only in our minds... today.
 
 Now we invest our extra time and energy and money by giving them away, freely,
 until that dominates money.
 
 * Life's grandest rewards come from gifts without conditions, and without any
-  expectation of return. We emphasize those rewards.
-
-* But the impact goes beyond what we can see: with a change in focus, all
-  today's scarcity mindsets will be replaced with systems that encourage even
-  more giving, and we will starve out extractive institutions.
-
-Some measurements (eg. money) will remain useful in many contexts. But the most
-important work we can do is unexpected and is not measured, so let's minimize
-our accounting systems and grow a culture that donates our work and our lives
-toward whatever satisfies our souls the most. Let's flip the script on today's
-trade-oriented world to one where we prioritize gifts... and go further: let's
-show how we can run our lives on a "gifting economy".
+  expectation of return. We emphasize those rewards... and we aim to replace
+  today's today's scarcity mindsets with systems that encourage even more
+  giving, starving out extractive institutions. Let's build a gifting economy.
 
 ### How? ###
 
 We start now, wherever we are in life and in the world.
 
-Again, the vision comes first; just keeping it in mind will affect your actions,
-and communicating it to others will make it even more real.
-
 In terms of action:
 
-* Raise awareness of the time and talents that are already being given, from
-  cooking and cleaning to going above-and-beyond with family, friends, and
-  organizations. This site has suggestions for ways to record and recognize
-  these.
+* Raise awareness of what is already being given: expand the "want" questions
+  above to get started.
 
-* Find where you would gain the most satisfaction and give there, filling the
-  well of your soul. We suggest some places to reach out even further if you are
-  still looking for that project that excites you.
+* One goal is to supply someone's basic needs entirely with gifts, so if you're
+  interested in the mechanics of that long-term project then reach out to us.
 
-* One of our initial goals is to supply someone's basic needs entirely with
-  gifts, so if you're interested in the mechanics of this large-scale project
-  then look for that project and reach out to us.
+* Find what will give you the most satisfaction: we suggest below some places to
+  reach out even further if you are still looking for that project that excites
+  you. (Plus, future app features will help advertise projects and interests.)
 
 ### Is it even possible? ###
 
