@@ -22,7 +22,7 @@ const Home = () => (
       <div className="home__inner">
 
         <div style={{ marginTop: 20 }}>
-          Quick Start: <a href="/gifting-app">recognize regularly the gifts you're already given</a>, then...
+          To begin with us immediately, <a href="/gifting-app">recognize regularly the gifts you're already given</a>. Then...
         </div>
 
         <div style={{ marginBottom: 50, marginTop: 50 }}>
@@ -32,7 +32,9 @@ const Home = () => (
               {/** works via CSS **/}
               <section>
                 <details>
-                  <summary><b style={{ fontSize: 'x-large' }}>Want to build communities via free association?</b></summary>
+                  <summary>
+                    <b style={{ fontSize: 'x-large' }}>Click here if you want to build communities via free association.</b>
+                  </summary>
                   <details>
                     <summary><b style={{ fontSize: 'large' }}>Announce it.</b></summary>
                     <p>First, show your support for <a href="/pledge">the basic gifting pledge</a>.</p>
@@ -69,7 +71,7 @@ const Home = () => (
               <section>
                 <details>
                   <summary>
-                    <b style={{ fontSize: 'x-large' }}>Want to provide life's basics freely?</b>
+                    <b style={{ fontSize: 'x-large' }}>Click here if you want to provide life's basics freely.</b>
                   </summary>
                   <details>
                     <summary><b style={{ fontSize: 'large' }}>Announce it.</b></summary>

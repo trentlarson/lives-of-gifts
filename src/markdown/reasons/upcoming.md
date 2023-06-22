@@ -14,4 +14,4 @@ order: 3
 
 * What Brings Meaning to Your Life? (I bet it's some type of gift.)
 
-* Some of our favorite tools for inspiration.
+* Some of our Favorite Tools for Inspiration.

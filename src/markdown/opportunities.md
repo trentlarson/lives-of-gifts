@@ -17,6 +17,6 @@ You see specific strategies here, but there are many other great ways to spread 
 ## Have money?
 
 - Money is easy to give: be sure to consider both short- and long-term
-  consequences, and both local and global contexts That way you gain a balance
+  consequences, and both local and global contexts. That way you gain a balance
   of deep & close relationships alongside the benefits of wider but more shallow
   impact.
