@@ -1,9 +1,9 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 
-import { GutterLeft, GutterRight } from '../components/home/gutter/gutter';
-import Layout from '../components/layout/layout';
-import SEO from '../components/seo/seo';
+import { GutterLeft, GutterRight } from './home/gutter/gutter';
+import Layout from './layout/layout';
+import SEO from './seo/seo';
 
 const PageContainer = ({ icon, query, title }) => {
   return (
@@ -25,7 +25,7 @@ const PageContainer = ({ icon, query, title }) => {
 
 const Page = (title, icon, query) => (
   <Layout>
-    <SEO title={ name } />
+    <SEO title={ title } />
     <div className="home__layout">
       <GutterLeft />
       <div className="home__inner">
