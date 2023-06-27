@@ -16,13 +16,19 @@
   width: 100%;
 }
 
+summary {
+  color: #008AF3;
+}
+/* The following supports the collapsed sections. */
 summary::-webkit-details-marker {
-  color: #00ACF3;
   font-size: 125%;
   margin-right: 2px;
 }
 summary:focus {
   outline-style: none;
+}
+summary:hover {
+  cursor: pointer;
 }
 section > details > summary {
   font-size: 28px;
@@ -35,5 +41,5 @@ details details {
   margin-left: 36px;
 }
 details details summary {
-	font-size: 16px;
+  font-size: 16px;
 }

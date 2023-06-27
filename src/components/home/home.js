@@ -40,7 +40,7 @@ const Home = () => (
                   <details>
                     <summary><b style={{ fontSize: 'large' }}>Announce it.</b></summary>
                     <p>First, show your support for <a href="/pledge">the basic gifting pledge</a>.</p>
-                    <p>Then read <a href="/pledge-voluntary">the "voluntary" pledge</a> pledge and, if you agree, sign it and read on.</p>
+                    <p>Then read <a href="/pledge-voluntary">the "voluntary" pledge</a> and, if you agree, sign it and read on.</p>
                   </details>
                   <details>
                     <summary><b style={{ fontSize: 'large' }}>Have time?</b></summary>
@@ -79,7 +79,7 @@ const Home = () => (
                   <details>
                     <summary><b style={{ fontSize: 'large' }}>Announce it.</b></summary>
                     <p>First, show your support for <a href="/pledge">the basic gifting pledge</a>.</p>
-                    <p>Read <a href="/pledge-pursuit">the "pursue" pledge</a> pledge and, if you agree, sign it and read on.</p>
+                    <p>Read <a href="/pledge-pursuit">the "pursue" pledge</a> and, if you agree, sign it and read on.</p>
                   </details>
                   <details>
                     <summary><b style={{ fontSize: 'large' }}>Have time?</b></summary>
