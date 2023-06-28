@@ -13,7 +13,7 @@
 
 # Current Initiatives
 
-See our [overall plans](https://observablehq.com/d/83a90a6d6cd11999?loadTaskUrl=https://raw.githubusercontent.com/trentlarson/lives-of-gifts/master/project.yaml). We are working on more [progress metrics and tracking](/progress) (just because it's fun).
+See our [overall plans](https://observablehq.com/d/83a90a6d6cd11999?loadTaskUrl=https://raw.githubusercontent.com/trentlarson/lives-of-gifts/master/project.task.yaml). We are working on more [progress metrics and tracking](/progress) (just because it's fun).
 
 We are also a part of the following initiatives under development.
 
