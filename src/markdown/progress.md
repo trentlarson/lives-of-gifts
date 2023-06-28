@@ -4,7 +4,7 @@ order: 1
 
 Impact
 
-* The primary impact measurements will align with our [overall plans](https://observablehq.com/d/83a90a6d6cd11999?loadTaskUrl=https://raw.githubusercontent.com/trentlarson/lives-of-gifts/master/project.yaml).
+* The primary impact measurements will align with our [overall plans](https://observablehq.com/d/83a90a6d6cd11999?loadTaskUrl=https://raw.githubusercontent.com/trentlarson/lives-of-gifts/master/project.task.yaml).
 
 Usage Metrics
 
