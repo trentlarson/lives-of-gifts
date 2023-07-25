@@ -1,7 +1,7 @@
 
 - The [Utah Terraculture Project](https://www.terracultureproject.org/) demonstrates healthy ways of living with minimal effort, as naturally as possible.
 
-- [ShareBay](https://sharebay.org) and [Olio](olioex.com) and [others](https://openaccesseconomy.org/doku.php?id=prototyping) have ways to connect with others for free offerings.
+- [ShareBay](https://sharebay.org) and [Olio](https://olioex.com) and [others](https://openaccesseconomy.org/doku.php?id=prototyping) have ways to connect with others for free offerings.
 
 - [Unlocking Multiple Forms of Wealth](https://www.youtube.com/watch?v=oUc_zhrdmaI) is a great TEDx talk on our alternatives to money. Nipun Mehta helped create the Service Space sites, like [Kind Spring](https://www.kindspring.org/story/) which is continually collecting inspiring, everyday stories.
 
