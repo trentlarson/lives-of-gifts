@@ -24,8 +24,7 @@ const NavbarContainer = ({
 
   const handleClick = (event) => {
     event.stopPropagation();
-    const newMenuState = getMenuState(menuState, navRef);
-    toggleMenu(newMenuState);
+    toggleMenu(getMenuState(menuState, navRef));
   };
 
   return (
