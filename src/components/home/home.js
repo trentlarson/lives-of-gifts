@@ -28,7 +28,7 @@ const Home = () => (
         </div>
 
         <div style={{ marginBottom: 50, marginTop: 50 }}>
-          <div style={{ display: 'flex' }}>
+          <div style={{ display: 'flex', flexWrap: "wrap" }}>
             <div style={{ flex: '50%', padding: 50 }}>
 
               {/** works via CSS **/}
