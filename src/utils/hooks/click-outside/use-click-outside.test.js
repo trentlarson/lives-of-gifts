@@ -4,7 +4,7 @@ import simulant from 'simulant';
 
 import isVisible from './is-visible';
 import useClickedOutside from './use-click-outside';
-import { act, renderHook } from '../../../test-utils/test-hook';
+import {act, renderHook} from "@testing-library/react-hooks";
 
 jest.mock('./is-visible');
 

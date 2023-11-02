@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import React, { useRef, useState } from 'react';
+import React, {useRef, useState} from 'react';
 
 import Navbar from './navbar';
 
@@ -22,7 +22,8 @@ const NavbarContainer = ({
 
   useClickOutside(navRef, closeMenu);
 
-  const handleClick = () => {
+  const handleClick = (event) => {
+    event.stopPropagation();
     toggleMenu(getMenuState(menuState, navRef));
   };
 
