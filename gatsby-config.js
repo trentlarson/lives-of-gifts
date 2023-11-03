@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     author: 'Trent Larson',
     description: '',
-    siteUrl: 'https://LivesOfGifts.org',
-    title: 'Lives Of Gifts',
+    siteUrl: 'https://LivesOfGiving.org',
+    title: 'Lives Of Giving',
     // List of link buttons to include on the landing image. Delete this field
     // and/or all entires if you do not want these links.
     // options: 'contact', 'opportunities', 'people', 'publications', 'research'
