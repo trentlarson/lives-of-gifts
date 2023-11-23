@@ -16,7 +16,7 @@ order: 2
   prosperous as we (Global North) are at this point in history, but humankind
   would get here eventually.
 
-* Oh, and see David Graeber's research on the real origins of money.
+* Oh, and see David Graeber's book on the real origins of money ("Debt").
 
 "There would be freeloaders."
 
@@ -34,8 +34,8 @@ order: 2
 
 * Only if the culture has an unbalanced value of material goods or forceful
   activities. Even if you judge today's world to be that sort of culture, the
-  majority of violence and theft are reactionary in nature, in rebellion against
-  unfair systems. We can overcome with a better culture.
+  majority of small-scale violence and theft are reactionary in nature, in
+  rebellion against unfair systems. We can overcome with a better culture.
 
 "If we give everything away, we'll end up with nothing."
 
@@ -65,7 +65,10 @@ order: 2
 "This is practical inside a community, but gifting breaks down in between tribes."
 
 * This is a better argument but it is the same issue, so again we point to
-  Elinor Ostrom's research.
+  Elinor Ostrom's research. Maybe there will always be a place for markets that
+  run with money and trade, for collaboration across boundaries of low trust or
+  for luxury items above and beyond necessities -- but that would be much
+  preferable to today's world where impersonal trade is an everday necessity.
 
 "Although sharing common resources is possible, there is always the threat of a
 powerful nation-state to take over so it is necessary to support a military by
