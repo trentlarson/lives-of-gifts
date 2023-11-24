@@ -74,8 +74,8 @@ order: 2
 powerful nation-state to take over so it is necessary to support a military by
 taxes and by force."
 
-* Immoral (or misguided) ambitions are a threat, but an internal, centralized
-  military power are just as much a threat to prosperity... and maybe more of a
+* Immoral and misguided ambitions are all a threat, but internal, centralized
+  military powers are just as much a threat to prosperity... and more of a
   threat to basic humanity. Dedicated, decentralized defenses have worked in the
   past for the American Colonies, and more recently for the nations of Vietnam
   and Afghanistan, showing that a dedicated citizenry can chase off even top
