@@ -32,8 +32,8 @@ const ProjectContainer = ({ planProjectData }) => {
       <br />
       <br />
       <h4>
-        { data.length || '?' } plans have been recorded,
-        with the most recent at { data.length > 0 ? data.at(-1).issuedAt.replace('T', ' ') : '?' }
+        { data.length == 50 ? '50+' : data.length || '?' } plans have been recorded,
+        with the most recent at { data.length > 0 ? data.at(0).issuedAt.replace('T', ' ') : '?' }
       </h4>
 
       <ul>

@@ -7,10 +7,10 @@ import Page from '../components/util-page';
 
 export default function ThisPage() {
 
-  //const SERVER = "https://endorser.ch:3000"
+  //const SERVER = "https://api.endorser.ch"
   //const ALPHA_PROJECT = "https://endorser.ch/entity/01H6091YZ1F3S15SPV5W18M32T"
   // test versions
-  const SERVER = "https://test.endorser.ch:8000"
+  const SERVER = "https://test-api.endorser.ch"
   const ALPHA_PROJECT = "https://endorser.ch/entity/01H677QXY9KDN2PHJP303B7WDR"
 
   const [giftedData, setGiftedData] = useState({}) // key is plan handle ID, value is array of gifts provided by plan
