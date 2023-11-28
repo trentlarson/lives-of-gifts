@@ -1,5 +1,8 @@
 You see specific strategies here, but there are many other great ways to spread gifts.
 
+In all of these cases, recording appreciation for others via [Time
+Safari](https://timesafari.app) is a great way to spread the love. :-)
+
 ## Have time?
 
 - Consider who could use a text or a phone call right now.

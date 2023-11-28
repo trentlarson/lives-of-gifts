@@ -24,7 +24,11 @@ const Home = () => (
         <div style={{ marginTop: 20 }}>
           <h1>Building a Gifting Society, in Ways that Fulfill Us</h1>
 
-          To begin with our tools immediately, <a href="/gifting-app">recognize regularly the gifts you're already given</a>. Then...
+          To begin with our tools immediately, <a href="/gifting-app">recognize regularly the gifts you're already given</a>.
+
+          <br />
+          <br />
+          Then, to get involved in deeper development:
         </div>
 
         <div style={{ marginBottom: 50, marginTop: 50 }}>
