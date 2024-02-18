@@ -11,10 +11,10 @@ const IndexPage = () => {
   const [planProjectData, setPlanProjectData] = useState([])
 
   useEffect(() => {
-    fetch("https://api.endorser.ch/api/claim?claimType=PlanAction")
+    fetch("https://api.endorser.ch/api/v2/report/plans")
       .then(r => r.json())
       .then(res => {
-        setPlanProjectData(res)
+        setPlanProjectData(res.data)
       })
   }, [])
 

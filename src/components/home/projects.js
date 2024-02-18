@@ -32,14 +32,13 @@ const ProjectContainer = ({ planProjectData }) => {
       <br />
       <br />
       <h4>
-        { data.length == 50 ? '50+' : data.length || '?' } plans have been recorded,
-        with the most recent at { data.length > 0 ? data.at(0).issuedAt.replace('T', ' ') : '?' }
+        { data.length == 50 ? '50+' : data.length || '?' } plans have been recorded.
       </h4>
 
       <ul>
       {
         data.map(entry =>
-          <li key={entry.id}>{entry.claim.name}</li>
+          <li key={entry.jwtId}>{entry.name}</li>
         )
       }
       </ul>
