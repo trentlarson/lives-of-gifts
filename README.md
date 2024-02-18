@@ -3,6 +3,7 @@
 
 To develop:
 
+- `sh <(curl https://pkgx.sh) +classic.yarnpkg.com sh`
 - `yarn` # requires v 1 or 2 of yarn, which I could only get with asdf via shell config
 - `yarn dev`
 

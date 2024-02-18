@@ -4,7 +4,7 @@ name: topics
 order: 3
 ---
 
-* What Meaneth a "Gifting" Economy?
+* What is a "Gifting" Economy?
 
 * What Holds Us Back? (Sneak peek: debt!)
 

@@ -27,7 +27,7 @@ const ContactContainer = () => {
         <section className="colored-spaced" id="related">
           <h2>
             <FontAwesomeIcon icon={faMailBulk} />
-            Contact
+            Contact & Other Details
           </h2>
           <div dangerouslySetInnerHTML={{ __html: query.markdown.html }} />
         </section>
