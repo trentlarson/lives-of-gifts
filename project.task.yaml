@@ -15,6 +15,10 @@ tasks:
 
 - identify & help local activist influencers
 
+- next board meeting :
+  - don't show "only admin" visibility (only show auditable stats)
+  - include a total accounting of money, eg time as money, etc for investment-minded people
+
 - Alpha Assembly :
   - memento?
   - flow for volunteering app :
@@ -24,16 +28,14 @@ tasks:
 
 - ShareBay & HonorPay
 
+- many other projects (justserve.org, magnova.org)
+
 - Samaritan's Purse tracks gifts https://www.samaritanspurse.org/operation-christmas-child/activation
 
 - 01 Walk through example of traceable donation :
   blocks : ref:#minimal-lifestyle-events
 
 - 01 Record overall financials, traded vs gifted
-
-- 01 Page on submitting other gift projects (with mine preloaded) id:project-submission :
-  - add search for Projects (currently only see PlanAction)
-  blocks : ref:#transcendent-action
 
 - 01 Page on submitting gratitude id:gratitude-submission :
   blocks : ref:#transcendent-action
@@ -98,8 +100,7 @@ tasks:
 
 - minimize temporal/external needs id:minimal%20fear
 
-- x get observablehq page working with refs to other pages :
-  blocks : ref:#project-submission
+- x get observablehq page working with refs to other pages
 
 - x 01 simplify and focus website on main 2 propositions :
   blocks : ref:#transcendent-action

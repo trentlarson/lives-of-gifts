@@ -6,35 +6,126 @@ Impact
 
 * The primary impact measurements will align with our [overall plans](https://observablehq.com/d/83a90a6d6cd11999?loadTaskUrl=https://raw.githubusercontent.com/trentlarson/lives-of-gifts/master/project.task.yaml).
 
+
+<div style="display:flex; flex-direction:row;">
+
+  <div>
+
+# Time Safari
+
+[Here is its project page... on itself.](https://timesafari.app/project/01H90SQKQZGKHVBXVRVVEX0Z0X)
+
+________________________________________________________________
+## 2025 Plans
+
+* Onboard local groups & many in neighborhoods
+
+* Increase organic contributions, both gratitude & projects
+
+* Run multiple experiments in gifts to like-minded people & projects
+
+  * ... potentially including commercial organizations
+
+================================================================
+## 2024
+
+### Usage Metrics
+
+* 4-10 people/month (~50% increase)
+
+* 70-180 entries/month (3-70 /week) (~100% increase)
+
+
+### Costs
+
+* Currency: $26,000 (servers, development)
+
+### Incoming Contributions
+
+* Currency: $26,000 (servers, development)
+* Time: 741 hours
+* Percentage Gifted (vs Traded):
+  * currency: 100% (vs 0%)
+  * time: 63% (vs 37%)
+
+### Goals
+
+* Donations or other revenue: got promise & sent invoice for server grant of $120
+
+* Features that are interesting enough to get organic contributions: got a handful
+
+* Outreach to affinity organizations: did some to project groups, but organizations not done
+
+================================================================
 ## 2023
 
 ### Usage Metrics
 
-* App used regularly by 2-4 people logging 4-8 items per week
+* Endorser Mobile app used by 3-5 people logging 12-16 items per week
 
-### Supporting Costs
+### Costs
 
-* Currency:
+* Currency: $13,000 (servers, development)
 
 ### Incoming Contributions
 
-* Currency:
-* Time:
-* Percentage Gifted (vs Traded): ?% (vs ?%)
+* Currency: $13,000
+* Time: 580 hours
+* Percentage Gifted (vs Traded):
+  * currency: 100% (vs 0%)
+  * time: 63% (vs 37%)
 
 
+================================================================
 ## 2022
 
 ### Usage Metrics
 
-* App used regularly by 2-4 people logging 4-8 items per week
+* Endorser Mobile app used regularly by 2-6 people logging 4-8 items per week
 
-### Supporting Costs
+### Costs
 
-* Currency: $1425
+* Currency: $1,425
 
 ### Incoming Contributions
 
-* Currency: $1425
-* Time: about 360 hours
+* Currency: $1,425
+* Time: 360 hours
 * Percentage Gifted (vs Traded): 100% (vs 0%)
+
+  </div>
+
+
+  <div>
+
+# Other Projects By Us
+
+## Basic Sustenance
+
+[Here is the project page on Time Safari.](https://timesafari.app/project/01H30KY54D09WH41751Y288ZND)
+
+
+  </div>
+
+</div>
+
+
+________________________________________________________________
+## Some Notes On Money
+
+When it comes to finances, we hope to make enough to support these efforts in
+perpetuity but there is no goal to make profit. (We are part of the non-profit
+[Bridge Foundation](https://bridgefoundation.community/), a 501(c)(3) charitable
+organization.) So there are a couple of principles that we'll abide:
+
+* Any service or product offered for trade will be clearly defined and separated
+  organizationally. The core services will always be gifts to the world, and will
+  hopefully get to the point where individuals and communities can run their own
+  infrastructure in a way that integrates seamlessly and contributes to the
+  worldwide effort. We plan for this effort to grow with more and more input into
+  local support and less and less input into a single, central organization.
+
+* If we pay salaries, the highest compensation will not exceed 5X the lowest.
+  The ultimate structure would be that we provide basic livelihoods for many people
+  and our support would come from donations out of the extra resources from that
+  pool, given totally voluntarily.
