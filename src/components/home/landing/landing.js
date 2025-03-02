@@ -17,7 +17,7 @@ const Landing = ({
   >
     <div>
       <h1>
-        Lives of Giving
+        Lives of Impact
       </h1>
       <p className="home__landing-description">
         {description}

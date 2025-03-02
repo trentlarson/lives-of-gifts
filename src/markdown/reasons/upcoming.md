@@ -15,3 +15,5 @@ order: 3
 * What Brings Meaning to Your Life? (I bet it's some type of gift.)
 
 * Some of our Favorite Tools for Inspiration.
+
+The latest writing is in [our blog](https://lives-of-giving.ghost.io/).
