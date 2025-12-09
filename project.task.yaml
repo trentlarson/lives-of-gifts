@@ -1,7 +1,9 @@
 
 tasks:
 
-- Funding :
+- outreach
+
+- funding :
   - donations
   - paid features (which require extra hardware or effort)
   - goal is to be 100% giving-supported (maybe with decentralized system architectures)

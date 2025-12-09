@@ -9,7 +9,7 @@ Safari](https://timesafari.app) is a great way to spread the love. :-)
 
 - Look for events that you enjoy and go ask how you can help.
 
-- [Search on Time Safari](https://timesafari.app/discover) for projects close to your neighborhood or close to your interests. Contact us to join the network.
+- [Search on Time Safari](https://timesafari.app/discover?hideOnboarding=true) for projects close to your neighborhood or close to your interests. Contact us to join the network.
 
 ## Have expertise?
 
@@ -19,7 +19,7 @@ Safari](https://timesafari.app) is a great way to spread the love. :-)
 
 - If you've got friends, ask them what kind of sharing would be fun.
 
-- [Time Safari](https://timesafari.app/discover) can help connect you to a group that could use your expertise. Contact us to join and connect.
+- [Time Safari](https://timesafari.app/discover?hideOnboarding=true) can help connect you to a group that could use your expertise. Contact us to join and connect.
 
 ## Have money?
 
