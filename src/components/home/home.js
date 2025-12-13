@@ -30,11 +30,11 @@ const Home = () => (
 
           <p>But that’s not the world we live in. Fear — of not having enough, of losing what we’ve built, of trusting the wrong people — drives many of our choices, and it quietly shapes society. Fear has built systems that isolate us. It’s turned neighbors into competitors, and communities into marketplaces.</p>
 
-          <h2>Gifting Economies</h2>
+          <h2>Gift Economies</h2>
 
-          <p>Gifting Economies are about reclaiming connection. They're systems based on trust, voluntary action, and shared wellbeing — where generosity becomes power, not weakness.</p>
+          <p>Gift Economies are about reclaiming connection. They're systems based on trust, voluntary action, and shared wellbeing — where generosity becomes power, not weakness.</p>
 
-          <p>For most of human history, people thrived through relationships, not transactions. Communities took care of one another long before money defined trustless value. Today, technology gives us a chance to bring that back — to rebuild local trust networks where people can share time, skill, and care freely. Gifting Economies aren’t anti-money; they're pro-human. They're about using technology to make kindness practical again.</p>
+          <p>For most of human history, people thrived through relationships, not transactions. Communities took care of one another long before money defined trustless value. Today, technology gives us a chance to bring that back — to rebuild local trust networks where people can share time, skill, and care freely. Gift Economies aren’t anti-money; they're pro-human. They're about using technology to make kindness practical again.</p>
 
           <h2>Get Started Now</h2>
 
