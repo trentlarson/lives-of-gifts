@@ -18,9 +18,15 @@ module.exports = {
     // it will not be shown. Delete this field and/or all entires to disable
     // footer links.
     footerLinks: [
-      { text: 'GitHub', link: 'https://github.com/trentlarson/lives-of-gifts' },
       //{ text: 'ResearchGate', link: 'https://www.researchgate.net/profile/Trent-Larson-3' },
+      { text: 'Facebook', link: 'https://www.facebook.com/GiftEconomies' },
+      { text: 'Instagram', link: 'https://www.instagram.com/GiftEconomies' },
+      { text: 'TikTok', link: 'https://www.tiktok.com/@GiftEconomies' },
       { text: 'LinkedIn', link: 'https://www.linkedin.com/in/trentlarson' },
+      { text: 'Ghost Blog', link: 'https://gifteconomies.ghost.io/' },
+      { text: 'Our Gitea', link: 'https://gitea.anomalistdesign.com/trent_larson' },
+      { text: 'All GitHub', link: 'https://github.com/trentlarson' },
+      { text: 'Site GitHub', link: 'https://github.com/trentlarson/lives-of-gifts' },
     ],
   },
   plugins: [
