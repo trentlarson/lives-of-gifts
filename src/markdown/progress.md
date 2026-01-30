@@ -15,23 +15,59 @@ Impact
 
 [Here is its project page... on itself.](https://timesafari.app/project/01H90SQKQZGKHVBXVRVVEX0Z0X)
 
-________________________________________________________________
-## 2025 Plans
+================================================================
+## 2026 Goals
+
+* Collaborate with one other group that materially supports their community
+
+* Gain recurring revenue
+
+================================================================
+## 2025
+
+### Usage Metrics
+
+* 5-13 users/month (average of 8, ~5% increase)
+
+* 100-300 entries/month (average of 223, ~50% increase)
+
+* 3-17 users/month (average of 9, ~50% increase)
+
+### Costs
+
+* Currency: $39,000 (development, servers)
+
+### Incoming Contributions
+
+* Currency: $26,000 (development, servers)
+* Time: 393 hours
+* Percentage Gifted (vs Traded):
+  * currency: 100% (vs 0%)
+  * time: 50% (vs 50%)
+
+### Goals
 
 * Onboard local groups & many in neighborhoods
 
+  - Result: Ran multiple events where people joined, two dedicated to this project
+
+* Run multiple experiments in gifts to like-minded people & projects, potentially including commercial organizations
+
+  - Result: Project contributions jumped, particularly for Centerville Basic Meals which ran for 9 months
+
 * Increase organic contributions, both gratitude & projects
 
-* Run multiple experiments in gifts to like-minded people & projects
+  - Result: Organic contributions are still lacking
 
-  * ... potentially including commercial organizations
+
+
 
 ================================================================
 ## 2024
 
 ### Usage Metrics
 
-* 4-10 people/month (~50% increase)
+* 4-10 users/month (~50% increase)
 
 * 70-180 entries/month (3-70 /week) (~100% increase)
 
@@ -50,7 +86,7 @@ ________________________________________________________________
 
 ### Goals
 
-* Donations or other revenue: got promise & sent invoice for server grant of $120
+* Donations or other revenue: received server grant of $120
 
 * Features that are interesting enough to get organic contributions: got a handful
 
