@@ -31,7 +31,7 @@ until that dominates money.
 
 * Life's grandest rewards come from gifts without conditions, and without any
   expectation of return. We emphasize those rewards... and we aim to replace
-  today's today's scarcity mindsets with systems that encourage even more
+  today's scarcity mindsets with systems that encourage even more
   giving, starving out extractive institutions. Let's build a gifting economy.
 
 ### How? ###
